@@ -1,0 +1,8 @@
+{
+  "dataset": "cb9c-h8sn (SECOP II, Adiciones)",
+  "equipo": 7,
+  "filtro": "(sin filtro territorial: la tabla no incluye departamento)",
+  "fecha_extraccion_utc": "2026-09-16T03:26:36+00:00",
+  "registros": 50000,
+  "tope_aplicado": 50000
+}

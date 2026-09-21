@@ -1,0 +1,12 @@
+{
+  "dataset": "jbjy-vk9h (SECOP II, Contratos Electronicos)",
+  "equipo": 7,
+  "expediente": "D",
+  "territorio": "Distrito Capital de Bogotá",
+  "consulta_where": "fecha_de_firma between '2024-01-01T00:00:00' and '2025-12-31T23:59:59' AND departamento = 'Distrito Capital de Bogotá'",
+  "fecha_extraccion_utc": "2026-09-16T03:25:24+00:00",
+  "registros": 50000,
+  "registros_disponibles": 567075,
+  "tope_aplicado": 50000,
+  "recorte_truncado": true
+}
