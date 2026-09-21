@@ -2,7 +2,7 @@
 ### Expediente D · SECOP II · Bogotá D.C. 2024–2025
 
 **Data Analytics (43390860) · Universidad Central · 2026-2 · Equipo 7**
-_Integrantes: (completar)_
+_Integrantes: Juan Felipe Garavito - Juan Fernando Fonseca - Cristian Villamil_
 
 ---
 
