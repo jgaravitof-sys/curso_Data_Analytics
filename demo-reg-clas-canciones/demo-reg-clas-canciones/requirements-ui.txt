@@ -1,0 +1,5 @@
+# Interfaz web opcional (app_streamlit.py). Render solo necesita requirements.txt.
+#   pip install -r requirements-ui.txt
+-r requirements.txt
+streamlit==1.65.0
+plotly==7.1.0
